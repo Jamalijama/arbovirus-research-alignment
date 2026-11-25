@@ -1,0 +1,5 @@
+﻿Virus,Raw_rows,ArtRev_rows,Unique_UT_AllYears,Year_Span,Unique_UT_le2024,Unique_UT_le2025,Match_Window,Unique_UT_MatchWindow,Burden_Window,Unique_UT_BurdenWindow,AB_pct,DI_pct,C1_pct,FU_pct,Surveillance_Scope
+Chikungunya,9931,9930,9430,1985-2026,8168,9010,2008-2024,8024,2013-2023,6615,99.2,96.0,99.5,71.8,"Americas (PAHO ARCA + CDC ArboNET, n=33) + Deep case study (1985–2026)"
+Dengue,30624,30623,30623,1902-2027,27381,29372,2008-2024,23185,2008-2024,23185,97.5,93.4,97.4,69.0,"Global benchmark (OpenDengue v1.3, n=96)"
+Zika,11396,11395,11395,1987-2027,10046,10940,2015-2024,9991,2016-2023,9128,98.6,98.4,99.9,80.2,"Americas (PAHO ARCA + CDC ArboNET, n=33)"
+West Nile virus,11297,11297,11238,1942-2026,10524,10975,2008-2024,8071,2008-2023,7697,97.6,92.6,97.8,66.1,"Europe & USA (ECDC + CDC ArboNET, n=24)"

@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use these datasets or scripts, please cite the accompanying manuscript."
+title: "Arbovirus Burden and Research Capacity: Cross-Country Alignment and Chikungunya Case Study"
+type: dataset
+authors:
+  - family-names: Yan
+    given-names: Si-Rui
+  - family-names: Liu
+    given-names: Ying
+  - family-names: Jiang
+    given-names: Shu-Yang
+  - family-names: Liu
+    given-names: Jia-Yi
+  - family-names: Song
+    given-names: Ying-Bo
+  - family-names: Guo
+    given-names: Yan
+  - family-names: Gao
+    given-names: Yuan
+  - family-names: Zhang
+    given-names: Sen
+  - family-names: Kang
+    given-names: Xiao-Ping
+  - family-names: Feng
+    given-names: Ye
+  - family-names: Chen
+    given-names: Yue-Hong
+  - family-names: Li
+    given-names: Yu-Chang
+  - family-names: Bao
+    given-names: Li-Li
+  - family-names: Jiang
+    given-names: Tao
+  - family-names: Li
+    given-names: Jing
+    orcid: "https://orcid.org/0000-0002-6860-6135"
+license: CC-BY-4.0

@@ -1,0 +1,6 @@
+Group,n_papers,Intl_collab_pct,Domestic_only_pct,Any_funding_pct,HIC_agency_funding_pct,HIC_coauthor_pct
+"Gap priority (DOM,GTM,GUY,SLV)",35,94.3,5.7,48.6,20.0,80.0
+Under-researched Americas (resid_mv<0),302,74.8,25.2,73.2,23.5,91.4
+LMIC endemic (non-HIC),5642,47.7,52.3,72.1,17.1,44.6
+Core Hub countries (Top 8),7206,43.9,56.1,74.6,30.7,69.3
+High-income only (no LMIC),3744,26.7,73.3,72.0,39.7,100.0
